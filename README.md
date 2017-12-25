@@ -1,3 +1,3 @@
-https://riya-17.github.io/MyPortfolio/
+https://riya-17.github.io/
 
 My Personal Portfolio
