@@ -2404,8 +2404,9 @@
 			background-repeat: no-repeat;
     		background-position: 50%;
     		border-radius: 50%;
-    		width: 70%;
-    		height: 60%;
+    		width: 110%;
+    		height: 100%;
+			margin-left: 35%;
 		}
 		.container
 		{	
