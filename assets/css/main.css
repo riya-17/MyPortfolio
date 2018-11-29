@@ -2264,7 +2264,7 @@
 		max-width: 100%;
         left: 0;
         top: 30%; 
-		width: 110%;
+		width: 120%;
         height: 100%;
 		margin: 2%;
 		padding:  20%;
@@ -2432,7 +2432,7 @@
 			text-decoration: none;
 			cursor: pointer;
 			transition: background-color ease 400ms;
-			width: 230px;
+			width: 220px;
 			height: 100px;
 			border-spacing: 50px 50rem;	
 		}
